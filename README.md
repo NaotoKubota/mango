@@ -1,4 +1,4 @@
-# Dockerfile for Mango
+# Docker container for Mango
 
 Dockerfile for [Mango](https://github.com/dphansti/mango): ChIA-PET Analysis Software
 
